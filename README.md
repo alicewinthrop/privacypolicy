@@ -2,7 +2,7 @@
 <body>
   <h1>Norwegian 4x4 — Privacy Policy</h1>
   <p><strong>Effective date:</strong> <span class="placeholder">April 18, 2026</span></p>
-  <p><strong>Developer:</strong> <span class="placeholder">AliceWin</span></p>
+  <p><strong>Developer:</strong> <span class="placeholder">Alice Winthrop</span></p>
 
   <h2>Overview</h2>
   <p>
