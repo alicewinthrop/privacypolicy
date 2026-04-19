@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Norwegian 4x4 — Privacy Policy</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      max-width: 680px;
-      margin: 0 auto;
-      padding: 2rem 1rem;
-      line-height: 1.6;
-      color: #1d1d1f;
-    }
-    h1 { font-size: 1.8rem; }
-    h2 { font-size: 1.3rem; margin-top: 2rem; }
-    p, li { font-size: 1rem; }
-    ul { padding-left: 1.2rem; }
-    .placeholder { background: #fff3cd; padding: 2px 6px; border-radius: 3px; }
-  </style>
-</head>
+
 <body>
   <h1>Norwegian 4x4 — Privacy Policy</h1>
   <p><strong>Effective date:</strong> <span class="placeholder">April 18, 2026</span></p>
