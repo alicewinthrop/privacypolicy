@@ -5,7 +5,7 @@
 ## Navigation
 
 **Privacy Policy**
-Go to Setti
+[Privacy Policy](https://alicewinthrop.github.io/norwegian4x4/privacy-policy)
 
 **Support**
-Go to Setti
+[Support](https://alicewinthrop.github.io/norwegian4x4/support)
